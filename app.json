@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "AlquiLibre",
+    "slug": "alquilibre",
+    "scheme": "alquilibre",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.alquilibre"
+    },
+    "android": {
+      "package": "com.luiss2080.alquilibre"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
